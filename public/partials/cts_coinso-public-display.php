@@ -11,7 +11,7 @@
  * @package    Cts_coinso
  * @subpackage Cts_coinso/public/partials
  *
- *  This file should primarily consist of HTML with a little bit of PHP. 
+ *  This file should primarily consist of HTML with a little bit of PHP.
  */
 
 $args = array(
